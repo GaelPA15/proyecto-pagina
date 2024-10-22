@@ -62,13 +62,13 @@ export default function Login() {
         <div className="text-center">
           <p>
             ¿Olvidaste tu contraseña?
-            <Link href="/forgot-password" className="text-blue-600">
+            <Link href="/forgot-password" className="text-blue-600 ml-2">
               Restablecer aquí
             </Link>
           </p>
           <p>
             ¿No tienes cuenta?
-            <Link href="/register" className="text-blue-600">
+            <Link href="/register" className="text-blue-600 ml-2">
               Regístrate aquí
             </Link>
           </p>
