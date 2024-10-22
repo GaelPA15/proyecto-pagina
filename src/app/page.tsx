@@ -69,7 +69,7 @@ export default function Login() {
           <p>
             ¿No tienes cuenta?
             <Link href="/register" className="text-blue-600 ml-2">
-              Regístarse aqui
+              Regístarse aquí
             </Link>
           </p>
         </div>
